@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[code]
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS noise
+.idea/
+.vscode/
+.DS_Store
+
+# Frontend (already, for later)
+node_modules/
+dist/
+
